@@ -7,4 +7,5 @@ https://1xfan.github.io/index.html
 * [@ChrisMoc07](https://github.com/ChrisMoc07) inspired the idea.
 * [@forcebro9](https://github.com/forcebro9) was there for moral support.
 
-### Created at Scrapyard Chicago 2024
+### Created at Scrapyard Chicago 2025
+
